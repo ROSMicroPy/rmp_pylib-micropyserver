@@ -42,26 +42,38 @@
     "depth": 0
   },
   {
-    "fullPath": "/lib/micropyserver",
-    "name": "micropyserver",
+    "fullPath": "/lib/MicroPyServer",
+    "name": "MicroPyServer",
     "isDir": true,
     "depth": 1
   },
   {
-    "fullPath": "/lib/micropyserver/__init__.py",
+    "fullPath": "/lib/MicroPyServer/__init__.py",
     "name": "__init__.py",
     "isDir": false,
     "depth": 2
   },
   {
-    "fullPath": "/lib/micropyserver/micropyserver.py",
+    "fullPath": "/lib/MicroPyServer/micropyserver.py",
     "name": "micropyserver.py",
     "isDir": false,
     "depth": 2
   },
   {
-    "fullPath": "/lib/micropyserver/utils.py",
+    "fullPath": "/lib/MicroPyServer/utils.py",
     "name": "utils.py",
+    "isDir": false,
+    "depth": 2
+  },
+  {
+    "fullPath": "/lib/signalling",
+    "name": "signalling",
+    "isDir": true,
+    "depth": 1
+  },
+  {
+    "fullPath": "/lib/signalling/LighthouseMesh.py",
+    "name": "LighthouseMesh.py",
     "isDir": false,
     "depth": 2
   },
