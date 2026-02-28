@@ -1,8 +1,8 @@
 {
   "urls": [
-    ["micropyserver/utils.py", "github:ROSMicroPy/rmp_pylib-micropyserver/utils.py"],
-    ["micropyserver/micropyserver.py", "github:ROSMicroPy/rmp_pylib-micropyserver/micropyserver.py"],
-    ["micropyserver/__init__.py", "github:ROSMicroPy/rmp_pylib-micropyserver/__init__.py"]
+    ["MicroPyServer/utils.py", "github:ROSMicroPy/rmp_pylib-micropyserver/utils.py"],
+    ["MicroPyServer/micropyserver.py", "github:ROSMicroPy/rmp_pylib-micropyserver/micropyserver.py"],
+    ["MicroPyServer/__init__.py", "github:ROSMicroPy/rmp_pylib-micropyserver/__init__.py"]
   ],
   "version": "0.2"
 }
