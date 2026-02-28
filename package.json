@@ -4,5 +4,5 @@
     ["micropyserver/micropyserver.py", "github:ROSMicroPy/rmp_pylib-micropyserver/micropyserver.py"],
     ["micropyserver/__init__.py", "github:ROSMicroPy/rmp_pylib-micropyserver/__init__.py"]
   ],
-  "version": "0.1"
+  "version": "0.2"
 }
