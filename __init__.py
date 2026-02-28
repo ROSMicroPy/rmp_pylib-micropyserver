@@ -1,3 +1,3 @@
 print("Importing MicroPyServer")
-from micropyserver.micropyserver import MicroPyServer
-from micropyserver.utils import *
+from MicroPyServer.micropyserver import MicroPyServer
+from MicroPyServer.utils import *
